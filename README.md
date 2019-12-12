@@ -1,5 +1,5 @@
 # NYC AirBnB Rental Price Predicition Regression Analysis
-Prediction of price for Airbnb hosts in New York City. 
+Prediction of price for Airbnb listings in New York City. 
 # Introduction
 
 Since its launch in 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
