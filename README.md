@@ -1,4 +1,4 @@
-# NYC AirBnB Rental Price Predcition Regression Analysis
+# NYC AirBnB Rental Price Predicition Regression Analysis
 Prediction of price for Airbnb hosts in New York City. 
 # Introduction
 
